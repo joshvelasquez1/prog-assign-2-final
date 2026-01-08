@@ -8,8 +8,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
-        <javafx.version>24</javafx.version>
-        <javafx-sdk.path>C:/openjfx-24_windows-x64_bin-sdk/javafx-sdk-24</javafx-sdk.path>
+        <javafx.version>21.0.5</javafx.version>
     </properties>
     <dependencies>
         <dependency>
